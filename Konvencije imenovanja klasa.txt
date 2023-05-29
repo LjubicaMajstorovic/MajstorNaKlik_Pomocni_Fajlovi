@@ -1,0 +1,9 @@
+- Modeli
+	* primeri mapiranja (tabela u bazi => naziv klase):
+		- majstor => MajstorModel.php
+		- registrovani_korisnik => RegistrovaniKorisnikModel.php
+
+- Kontroleri
+	* svako treba da ima osnovne kontrolere:
+		- BaseController.php
+		- Gost.php
